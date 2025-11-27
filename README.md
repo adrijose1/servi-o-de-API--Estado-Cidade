@@ -16,5 +16,6 @@ Resultado Esperado da Requisição:
 A requisição retorna uma lista de cidades pertencentes aos três estado PE, CE, BA, exemplo: Cidade RECIFE(estado PE).
 
 ______________________________________________________________________________________________________________________________________
-Ao imprimir na tela vai retornar as cidades pertencentes de cada estado e também a sigla no lado de cada cidade ou municipio pertencente
+Ao imprimir na tela vai retornar as cidades pertencentes de cada estado e também a sigla no lado de cada cidade ou municipio pertencente.
+
 VAI IMPRIMIR AS CIDADES E SIGLA
