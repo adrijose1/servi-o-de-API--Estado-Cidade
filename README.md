@@ -1,5 +1,6 @@
 # serviço-de-API--Estado-Cidade
-Serviço de API referente Estado e cidade
+Serviço de API referente Estado e cidade.
+
 Por que escolhi essa API do IBGE.GOV?
 Escolhi a API do IBGE porque ela fornece informações oficiais sobre estados, cidades e regiões do Brasil.
 Por conta que se relaciona diretamente com o tema da minha aplicação, que utiliza estados e cidades.
